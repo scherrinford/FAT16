@@ -1,6 +1,3 @@
-//
-// Created by bigel on 18.12.2020.
-//
 
 #ifndef UNTITLED10_FILE_READER_H
 #define UNTITLED10_FILE_READER_H
